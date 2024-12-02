@@ -1,0 +1,15 @@
+# Ignore node_modules
+user-management-backend/node_modules/
+user-management-frontend/node_modules/
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build output
+dist/
+
+# Ignore .env files
+user-management-backend/.env
+.env
+
